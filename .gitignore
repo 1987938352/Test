@@ -69,3 +69,4 @@ vscode/*
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+/.vs
